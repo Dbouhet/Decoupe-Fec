@@ -17,7 +17,7 @@ Cet outil découpe votre fichier FEC en autant de parties que vous voulez, en ga
 4. Sélectionnez votre fichier FEC → choisissez le nombre de parties → c’est fini !
 
 ### Téléchargement direct (dernière version)
-[**Télécharger Découpe FEC v1.2 (Windows)**](https://github.com/TON_PSEUDO/decoupe-fec/releases/latest/download/Decoupe_FEC_v1.2.zip)
+[**Télécharger Découpe FEC v1.2 (Windows)**](https://github.com/Dbouhet/decoupe-fec/releases/latest/download/Decoupe.FEC.zip)
 
 ### Code source
 Le code est dans le dossier `/src`. Vous pouvez le modifier ou le recompiler avec PyInstaller si besoin.
