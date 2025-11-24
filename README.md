@@ -22,8 +22,6 @@ Cet outil découpe votre fichier FEC en autant de parties que vous voulez, en ga
 ### Code source
 Le code est dans le dossier `/src`. Vous pouvez le modifier ou le recompiler avec PyInstaller si besoin.
 
-### Auteur
-Créé avec ❤️ pour la communauté comptable française  
-Contact : ton-email@exemple.com (ou supprime cette ligne)
+
 
 Merci d’étoiler ⭐ le projet si ça vous aide !
